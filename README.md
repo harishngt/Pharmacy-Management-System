@@ -44,7 +44,7 @@ The project uses the following libraries:
 
 ## License
 
-This project is licensed under the [LICENSE](https://github.com/harishngt/Pharmacy-Management-System/blob/main/LICENSE).
+This project is licensed under the [MIT LICENSE](https://github.com/harishngt/Pharmacy-Management-System/blob/main/LICENSE).
 
 ## Contributors
 
